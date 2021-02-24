@@ -2,8 +2,8 @@
 
 ## 相关引用
 
-[React 文档](https://zh-hans.reactjs.org/docs/getting-started.html)
-[Vite 文档](https://vitejs.dev/guide/)
+[React 文档](https://zh-hans.reactjs.org/docs/getting-started.html) |
+[Vite 文档](https://vitejs.dev/guide/) |
 [React Router 文档](https://reactrouter.com/web/guides/quick-start)
 
 ## React 表达式
