@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useHistory, useParams } from 'react-router-dom'
 import useFetch from '../../hooks/useFetch'
 import { getBlogs } from '../../utils/mock'
+
 const BlogDetails = () => {
   const set = blogs => setBlog(blogs.find(({ id: bId }) => bId === id))
 
