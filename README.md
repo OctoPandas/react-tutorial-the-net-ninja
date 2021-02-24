@@ -1,5 +1,11 @@
 来自 [Full Modern React Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
+## 相关引用
+
+[React 文档](https://zh-hans.reactjs.org/docs/getting-started.html)
+[Vite 文档](https://vitejs.dev/guide/)
+[React Router 文档](https://reactrouter.com/web/guides/quick-start)
+
 ## React 表达式
 
 `{}` 中的表达式不能为普通对象或布尔值等。但可以是 `string` 或 `number`，也可以是他们构成的数组。
